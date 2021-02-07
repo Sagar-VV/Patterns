@@ -4,7 +4,7 @@
 #   ****
 #  *****
 
-n = 5
+n = int(input("Enter the Row height : "))
 
 for i in range (n, 0, -1):
     for s in range(i):
