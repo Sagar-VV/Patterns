@@ -1,0 +1,20 @@
+Both question and code is written below.
+
+# * * * * * 
+# * * * * * 
+# * * * * * 
+# * * * * * 
+# * * * * * 
+n = 5
+
+for i in range(0, n):
+    for j in range(i , 0):
+        print('', end=' ')
+
+    for s in range(n):
+        print('* ' , end='')    
+
+    print('')    
+
+
+
